@@ -17,6 +17,10 @@ header{
     justify-content: space-between;
     width: 990px;
 }
+.logo, .menu{
+    display: flex;
+    align-items: center;
+}
 nav ul,li{
     list-style: none;
     padding: 0;
